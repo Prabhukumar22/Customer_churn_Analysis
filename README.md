@@ -2,7 +2,7 @@
 
 ## Overview
 
-A beginner-level data analytics project using Python and Pandas to analyze customer churn patterns.
+A Data analytics project using Python and Pandas to analyze customer churn patterns.
 
 ## Objectives
 
