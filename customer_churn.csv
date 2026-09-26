@@ -1,0 +1,16 @@
+Customer_ID,Age,Tenure,Monthly_Charges,Contract,Support_Calls,Churn
+C001,22,3,2500,Month-to-month,5,Yes
+C002,35,24,1800,One year,1,No
+C003,28,6,3200,Month-to-month,4,Yes
+C004,42,36,1500,Two year,1,No
+C005,31,12,2200,One year,2,No
+C006,24,4,3500,Month-to-month,6,Yes
+C007,45,48,1400,Two year,0,No
+C008,29,8,2800,Month-to-month,5,Yes
+C009,38,30,1900,One year,1,No
+C010,26,5,3000,Month-to-month,4,Yes
+C011,50,60,1300,Two year,0,No
+C012,33,18,2100,One year,2,No
+C013,27,7,2900,Month-to-month,5,Yes
+C014,41,42,1600,Two year,1,No
+C015,30,10,2700,Month-to-month,3,Yes
